@@ -1,66 +1,29 @@
-## Foundry
+# ily-virus
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**ily virus is an on-chain infectious, inflationary, self-spawning nft experiment on [monad testnet](https://testnet.monad.xyz)**
 
-Foundry consists of:
+**ily 💜**
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+![ily](/ipfs/ily.png)
 
-## Documentation
+## how it works
 
-https://book.getfoundry.sh/
+1.  i got infected with ily virus after deployment 💜
 
-## Usage
+2.  i infected my friends with ily virus by transferring 🔄
 
-### Build
+3.  transfers caused the virus to spread 🦠
 
-```shell
-$ forge build
-```
+4.  whenever an infection happened all the infectors who directly or indirectly caused the infection receives more ily virus nfts 🥰
 
-### Test
+## see it on x 🕊️
 
-```shell
-$ forge test
-```
+https://x.com/berzanorg/status/1904562313627312421
 
-### Format
+## see it on explorer 🧭
 
-```shell
-$ forge fmt
-```
+https://testnet.monadexplorer.com/token/0x4567eF53DEFdbB71041aBE00a3788B59C26679ab
 
-### Gas Snapshots
+## thanks 🥰
 
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+> ily [medusa](https://x.com/medusa_apple) for ur cute ability to draw cute things.
