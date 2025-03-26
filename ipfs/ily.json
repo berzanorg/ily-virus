@@ -1,0 +1,19 @@
+{
+    "name": "ily",
+    "description": "Let's spread the greatest on-chain virus ily.",
+    "image": "ipfs://bafybeieodxyioejbhiolwqkdjzuoumufl73zi7cfxxi7svxe5d6kyx5fku/ily.png",
+    "attributes": [
+        {
+            "trait_type": "Appearance",
+            "value": "Cute"
+        },
+        {
+            "trait_type": "Infectious",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "Medusa"
+        }
+    ]
+}
