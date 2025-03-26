@@ -2,9 +2,25 @@
 
 **ily virus is an on-chain infectious, inflationary, self-spawning nft experiment on [monad testnet](https://testnet.monad.xyz)**
 
-**ily 💜**
+**for monad community 💜**
 
 ![ily](/ipfs/ily.png)
+
+## why i made it
+
+[monad](https://monad.xyz) is so fast, decentralized, optimized and cute
+
+but we generally use the same tools but applications that were developed for other [evm](https://en.wikipedia.org/wiki/Ethereum#Virtual_machine) blockchains
+
+and those tools are not good enough to enjoy monad's cuteness
+
+i decided to make a virus nft experiment to spam the testnet and hopefully break many wallets and nft marketplaces
+
+so in my optimistic future they would redesign and rebuilt themselves from scratch with a lot of optimizations
+
+so we can get to experience monad's true speed and cuteness
+
+ily monad community 🥰
 
 ## how it works
 
